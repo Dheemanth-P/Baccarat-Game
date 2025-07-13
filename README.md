@@ -1,8 +1,6 @@
-
-````markdown
 # 🎴 Virtual Baccarat Game in C++
 
-This is a console-based implementation of the *Baccarat* card game, written in C++. The game simulates a virtual casino experience where a player can place bets on the **Banker** or the **Player**, and cards are drawn according to Baccarat rules.
+This is a console-based implementation of the **Baccarat** card game, written in C++. The game simulates a virtual casino experience where a player can place bets on the **Banker** or the **Player**, and cards are drawn according to Baccarat rules.
 
 ## 🕹️ Game Overview
 
@@ -33,7 +31,7 @@ The hand whose total is closest to 9 wins. If the total is 8 or 9 on the first t
    ```bash
    git clone https://github.com/your-username/baccarat-cpp.git
    cd baccarat-cpp
-````
+
 
 2. Compile the code using `g++`:
 
@@ -76,3 +74,4 @@ The hand whose total is closest to 9 wins. If the total is 8 or 9 on the first t
 ## 🧑‍💻 Author
 
 Dheemanth.P
+
