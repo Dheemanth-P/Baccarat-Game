@@ -2,7 +2,7 @@
 ````markdown
 # 🎴 Virtual Baccarat Game in C++
 
-This is a console-based implementation of the **Baccarat** card game, written in C++. The game simulates a virtual casino experience where a player can place bets on the **Banker** or the **Player**, and cards are drawn according to Baccarat rules.
+This is a console-based implementation of the *Baccarat* card game, written in C++. The game simulates a virtual casino experience where a player can place bets on the **Banker** or the **Player**, and cards are drawn according to Baccarat rules.
 
 ## 🕹️ Game Overview
 
