@@ -76,10 +76,3 @@ The hand whose total is closest to 9 wins. If the total is 8 or 9 on the first t
 ## 🧑‍💻 Author
 
 Dheemanth.P
-
-
-
----
-
-Let me know if you'd like a `LICENSE` file or want to modify the game rules/UI further.
-```
