@@ -1,14 +1,57 @@
-# 🎴 Virtual Baccarat Game in C++
+# 🎴 Virtual Baccarat Game (C++)
 
-This is a console-based implementation of the **Baccarat** card game, written in C++. The game simulates a virtual casino experience where a player can place bets on the **Banker** or the **Player**, and cards are drawn according to Baccarat rules.
+A terminal-based Baccarat game written in C++ where you can bet on the **Banker** or **Player**, and watch as virtual cards are drawn and totals calculated. Try your luck with ₹10,000 virtual currency!
 
-## 🕹️ Game Overview
+## 📌 Features
 
-Baccarat is a simple card game where two hands are compared:
-- **Banker's hand**
-- **Player's hand**
+- Simple Baccarat rules implementation
+- Bet on Banker or Player
+- Natural win (8 or 9) handling
+- Third card rule simulation
+- ASCII-style card graphics
+- Balance tracking across rounds
 
-The hand whose total is closest to 9 wins. If the total is 8 or 9 on the first two cards, it's called a **natural win**, and no more cards are drawn. Otherwise, a third card might be drawn based on simple rules.
+## 🖥️ Demo
+
+```text
+==============================
+WELCOME TO VIRTUAL BACCARAT
+==============================
+Current balance: 10000
+1-BANKER 
+2-PLAYER 
+Choose your bet: 1
+Place your bet, Betting amount: 500
+
+==============================
+      = BANKER'S CARDS =
+  ==============================
+========
+|      |
+|   7  |
+|      |
+========
+First Card: 7
+========
+|      |
+|   2  |
+|      |
+========
+Second Card: 2
+========
+|      |
+|   1  |
+|      |
+========
+Total: 0  
+Extra Card: 1
+
+...
+
+BANKER WINS
+YOU WIN!
+Current Money: 10500
+
 
 ## 💡 Features
 
