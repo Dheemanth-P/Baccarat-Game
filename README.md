@@ -1,6 +1,3 @@
-Here's a `README.md` file tailored for your Baccarat game project. It includes a project overview, features, installation instructions, and usage details to help showcase it on GitHub.
-
----
 
 ````markdown
 # 🎴 Virtual Baccarat Game in C++
