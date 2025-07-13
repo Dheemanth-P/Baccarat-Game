@@ -78,13 +78,9 @@ The hand whose total is closest to 9 wins. If the total is 8 or 9 on the first t
 
 ## 🧑‍💻 Author
 
-Chiranth Prashanth
+Dheemanth.P
 
-## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-```
 
 ---
 
