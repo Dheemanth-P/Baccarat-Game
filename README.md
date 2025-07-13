@@ -52,7 +52,7 @@ BANKER WINS
 YOU WIN!
 Current Money: 10500
 
-
+```
 ## 💡 Features
 
 - Simulates a basic Baccarat game in the terminal
@@ -80,7 +80,7 @@ Current Money: 10500
 
    ```bash
    g++ -o baccarat baccarat.cpp
-   ```
+   
 
 3. Run the game:
 
